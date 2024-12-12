@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/pwc-gx-nis/NextGen%20Cloud/_apis/build/status/NextGen-Create-App-Environment-CI?branchName=master)](https://dev.azure.com/pwc-gx-nis/NextGen%20Cloud/_build/latest?definitionId=10&branchName=master)
+
 # terraform-azure-cloud-environment
 This module creates basic infrastructure required for azure environment like TFE workspaces, Azure Resource Groups, SPNs etc.
 ### Mandatory input variables
