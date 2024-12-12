@@ -76,10 +76,6 @@ module "cloud_env" {
 | resource_group_names       | List  | Names of the resource groups created for this environment |
 | spn_id       | String  | ID for the service princpial created to manage RGs |
 
-# Authors
-Originally created by [Sambhaji Dhawan](https://github.pwc.com/sambhaji-dhawan).
-Updated by [Constant Young](https://github.pwc.com/constant-young)
 
-# License
 
-[MIT](LICENSE)
+
