@@ -56,13 +56,7 @@ module "cloud_env" {
     ENTERPRISE_APP_NAME = "${var.inputvariable}"
     SPN_PASSWORD = "${var.inputvariable}"
     TAGS = {
-        ghs-appid = ""
-        ghs-billingterritory = ""
-        ghs-apptioid=""
-        ghs-envid=""
-        ghs-los="IFS"
-        ghs-owner=""
-        ghs-solution=""
+
     }
 }
 ```
